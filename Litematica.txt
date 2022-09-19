@@ -1,5 +1,6 @@
-Open / Close menu                           M
-Toggle overlay on / off                     M + R
+Open / Close menu                                 M
+Toggle overlay on / off                           M + R
 
-Cycle though schematic modes                CRTL + Scrollwheel           (Med en stick i hånden)
-Move schematic around                       ALT + Scrollwheel            (Med en stick i hånden og se den vej du gerne vil rykke din schematic)
+Cycle though schematic modes                      CRTL + Scrollwheel           (Med en stick i hånden)
+Move schematic around                             ALT + Scrollwheel            (Med en stick i hånden og se den vej du gerne vil rykke din schematic)
+Cycle through layout modes (ex. singlelayer)      M + PgUp/PgDn
