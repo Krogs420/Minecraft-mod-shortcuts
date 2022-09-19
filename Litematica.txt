@@ -1,1 +1,2 @@
-Open / Close menu                           M + R
+Open / Close menu                           M
+Toggle overlay on / off                     M + R
