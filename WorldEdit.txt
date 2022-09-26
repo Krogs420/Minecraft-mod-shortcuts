@@ -1,11 +1,17 @@
-========== Commands ========== ============ Example ============ ==================== Explanation ==================== ===================== Advanced Example =====================
+========== Commands ========== ============ Example ============ ==================== Explanation ==================== 
 
 //copy                          //copy                            Tager en kopi en ens markering
 //paste                         //paste                           Indsætter ens kopi
+//undo                          //undo                            Laver man en fejl kan undo bruges til at gå tilbage
+//redo                          //redo                            Bruger man undo en gang for meget kan man bruge redo til at komme tilbage igen
+
 
 //cut                           //cut                             Fjerner alt inde for det markeret område
 //set                           //set stone                       Placere valgt block inde i markeringen
-//replace                       //replace stone dirt              Erstatter valgte blocks med givet block               //replace stone 40%cobblestone,40%stonebricks,20%stone
+
+//replace                       //replace stone dirt              Erstatter valgte blocks med givet block               
+                                //replace stone 40%cobblestone,40%stonebricks,20%stone
+
 //rotate                        //rotate 90                       Rotere ens markering før den bliver pasted
 //flip                          //flip                            Flipper ens markering
-
+//move                          //move 5                          Flytter din markering (5) blocks den vej du pejer
