@@ -4,7 +4,7 @@ Toggle overlay on / off                           M + R
 Cycle though schematic modes                      CRTL + Scrollwheel           (Med en stick i hånden)
 Move schematic around                             ALT + Scrollwheel            (Med en stick i hånden og se den vej du gerne vil rykke din schematic)
 Cycle through layout modes (ex. singlelayer)      M + PgUp/PgDn
-Rotate schematic menu                             TAB + R
+Rotate schematic menu                             TAB + R                      (Skal ændres i settings - søg på rotation) 
 
 ========== Bindings ==========
 Rotate schematic menu                             M > Settings > Bindings > Rotate > Bind a key (Jeg har min på TAB + R)                                 
